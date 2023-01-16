@@ -2,4 +2,6 @@
     <string name="app_name">AppBank</string>
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="binUser">111 111 111</string>
+    <string name="infoBin">Введите первые цифры номера карты (БИН/ИИН)</string>
 </resources>
